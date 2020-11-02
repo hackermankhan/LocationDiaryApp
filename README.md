@@ -7,3 +7,7 @@ Features:
 - Save that location and add a picture and description to it
 - Organize your locations via categories
 - Show all your locations on a map
+
+<div style="float: left;">
+<img src="images/screenshot1.png" width="400"/>
+</div>
